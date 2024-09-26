@@ -1,4 +1,4 @@
-### Este es un ejemplo basico usando terraform pero usando Localstack ###
+### Este es un ejemplo basico de terraform pero empleand Localstack ###
 
 ### Componentes de la red ###
 - VPC:
